@@ -30,15 +30,15 @@
 
 ---
 
-### 📊 My GitHub Dashboard
-
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=THISHA123&show_icons=true&theme=radical&hide_rank=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THISHA123&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THISHA123&layout=compact&theme=radical" width="45%" />
 </p>
 
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THISHA123&theme=radical" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THISHA123&theme=radical" width="70%" />
 </p>
 
 ---
