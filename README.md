@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi 👋, I'm Thishanthani Thamilselvam (Thisha)
-(mypic.jpeg)
+[mypic.jpeg]
 ### 🎓 Professional IT Undergraduate Student
 *Crafting efficient solutions through code and logic.*
 
