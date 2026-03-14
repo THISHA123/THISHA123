@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi 👋, I'm Thishanthani Thamilselvam (Thisha)
-![Profile Header](mypic.jpeg)
+[Profile Header](mypic.jpeg)
 ### 🎓 Professional IT Undergraduate Student
 *Crafting efficient solutions through code and logic.*
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - **LinkedIn:** [https://www.linkedin.com/in/thamilselvam-thishanthani-89a221293]
 
 ---
-![Your GitHub Stats](https://github.com/THISHA123)
+[Your GitHub Stats](https://github.com/THISHA123)
