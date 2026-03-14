@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋, I'm Thishanthani Thamilselvam (Thisha)
-![Profile Header](thisha_profile.jpg)
+<p align="center">
+  <img src="thisha_profile.jpg" width="300" alt="Thishanthani Thamilselvam">
+</p>
+
 ### 🎓 Professional IT Undergraduate Student
 *Crafting efficient solutions through code and logic.*
 
@@ -38,4 +41,5 @@ Here are some ideas to get you started:
 - **LinkedIn:** [https://www.linkedin.com/in/thamilselvam-thishanthani-89a221293]
 
 ---
-[Your GitHub Stats](https://github.com/THISHA123)
+### 🔥 Coding Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THISHA123&theme=radical)
