@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Hi 👋, I'm Thishanthani Thamilselvam (Thisha)
-![Profile Header]( )
+![Profile Header]("G:\github\thisha_profile.jpg")
 ### 🎓 Professional IT Undergraduate Student
 *Crafting efficient solutions through code and logic.*
 
