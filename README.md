@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi 👋, I'm Thishanthani Thamilselvam (Thisha)
-![Profile Header](thisha_profile.jpg)
+![Profile Header]( )
 ### 🎓 Professional IT Undergraduate Student
 *Crafting efficient solutions through code and logic.*
 
