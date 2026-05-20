@@ -56,6 +56,6 @@
 ### 🚧 Current Project
 
 📌 **Campus Lost & Found** – A full-stack mobile application for university students to manage and recover lost items.
-🔗 Repo: [https://github.com/THISHA123/Campus-Lost-Found](https://github.com/THISHA123/Campus-Lost-Found)
+🔗 Repo: [https://github.com/THISHA123/uni-merch)
 
 ---
